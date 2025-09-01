@@ -21,3 +21,4 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
